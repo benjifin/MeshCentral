@@ -47,7 +47,7 @@
     "node-forge": "^0.8.4",
     "node-vault": "^0.9.11",
     "ws": "^6.2.1",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.6.0",
     "yauzl": "^2.10.0"
   },
   "devDependencies": {},
