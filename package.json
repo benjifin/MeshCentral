@@ -44,7 +44,7 @@
     "minimist": "^1.2.0",
     "multiparty": "^4.2.1",
     "nedb": "^1.8.0",
-    "node-forge": "^0.8.4",
+    "node-forge": "^0.10.0",
     "node-vault": "^0.9.11",
     "ws": "^6.2.1",
     "xmldom": "^0.1.27",
